@@ -17,7 +17,7 @@ I am a Management student at the University of Utah with an interest in business
 
 My GitHub Pages portfolio website:
 
-https://weihaolin.github.io
+https://weihao-lin1011.github.io/weihaolin.github.io/
 
 ## Course
 
